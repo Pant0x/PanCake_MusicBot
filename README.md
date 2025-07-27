@@ -28,7 +28,7 @@ A professional Discord music bot with high-quality playback, queue, playlists, l
    ```
 4. Run the bot:
    ```
-   python MyBot.py
+   python Pancake.py
    ```
 
 ## Usage
