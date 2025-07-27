@@ -1,6 +1,4 @@
-# Add missing import for lyricsgenius
 import lyricsgenius
-# --- Ensure all required imports and definitions are present at the top ---
 import discord
 from discord.ext import commands, tasks
 from discord import app_commands, ui
