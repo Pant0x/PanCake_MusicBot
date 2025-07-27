@@ -1,4 +1,7 @@
 # Pancake Music Bot
+   ```
+   https://discord.com/oauth2/authorize?client_id=1379577348927782963
+   ```
 
 A professional Discord music bot with high-quality playback, queue, playlists, lyrics, filters, 24/7 mode, and more.
 
@@ -38,4 +41,4 @@ Use `!help` or `/help` in Discord to see all commands and features.
 - Do **not** commit your `.env` file or tokens to GitHub.
 
 ## License
-MIT
+Panto
