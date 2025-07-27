@@ -39,5 +39,8 @@ Use `!help` or `/help` in Discord to see all commands and features.
 - Make sure `musicbot.db` is writable by the bot.
 - Do **not** commit your `.env` file or tokens to GitHub.
 
-## License
+## Developer 
 Panto
+
+## License
+MIT
