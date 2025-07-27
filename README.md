@@ -1,7 +1,6 @@
 # Pancake Music Bot
-   ```
-   https://discord.com/oauth2/authorize?client_id=1379577348927782963
-   ```
+
+[**➤ Invite Pancake to your server**](https://discord.com/oauth2/authorize?client_id=1379577348927782963)
 
 A professional Discord music bot with high-quality playback, queue, playlists, lyrics, filters, 24/7 mode, and more.
 
